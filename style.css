@@ -1,0 +1,48 @@
+* > {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    line-height: 1.5;
+    margin: 0;
+}
+header{
+    margin: 0;
+    color: white;
+    background-color: rgb(141, 1, 48);
+
+}
+h1{
+    font-size: 3rem;
+    margin: 2rem;
+}
+h2{
+    margin-left: 15rem;
+    font-size: 2rem;
+}
+
+p{
+    margin-bottom: 2.5rem;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.author-quotes{
+    background-color: rgb(200, 230, 199);
+    margin: 0 15rem;
+}
+
+.musician-quote{
+    background-color: rgb(189, 222, 251);
+    margin: 0 15rem;
+}
+.name{
+    font-variant: small-caps;
+    text-align: end;
+    margin-right: 1rem;
+
+}
+.rounded-edge{
+    border-radius: 0.5rem;
+}
